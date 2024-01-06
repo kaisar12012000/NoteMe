@@ -143,7 +143,7 @@ There are total 9 API's. They are:
 - Endpoint: http://localhost:3002/api/notes
 - method: GET
 - Request Headers: 
-  ```json
+  ```js
   {
      "Authorization": `Bearer ${token}`
   }
@@ -173,7 +173,7 @@ There are total 9 API's. They are:
 - Endpoint: http://localhost:3002/api/notes/:id
 - method: GET
 - Request Headers: 
-  ```json
+  ```js
   {
      "Authorization": `Bearer ${token}`
   }
@@ -201,7 +201,7 @@ There are total 9 API's. They are:
 - Endpoint: http://localhost:3002/api/notes
 - method: POST
 - Request Headers: 
-  ```json
+  ```js
   {
      "Authorization": `Bearer ${token}`
   }
@@ -218,7 +218,7 @@ There are total 9 API's. They are:
 - Endpoint: http://localhost:3002/api/notes/:id
 - method: PUT
 - Request Headers: 
-  ```json
+  ```js
   {
      "Authorization": `Bearer ${token}`
   }
@@ -235,7 +235,7 @@ There are total 9 API's. They are:
 - Endpoint: http://localhost:3002/api/notes/:id
 - method: DELETE
 - Request Headers: 
-  ```json
+  ```js
   {
      "Authorization": `Bearer ${token}`
   }
@@ -246,7 +246,7 @@ There are total 9 API's. They are:
 - Endpoint: http://localhost:3002/api/notes/:id/share
 - method: POST
 - Request Headers: 
-  ```json
+  ```js
   {
      "Authorization": `Bearer ${token}`
   }
@@ -285,7 +285,7 @@ There are total 9 API's. They are:
 - Endpoint: http://localhost:3002/api/search?q=:query
 - method: POST
 - Request Headers: 
-  ```json
+  ```js
   {
      "Authorization": `Bearer ${token}`
   }
