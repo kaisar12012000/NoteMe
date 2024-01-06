@@ -252,7 +252,7 @@ There are total 9 API's. They are:
   }
   ```
 - Request Body : 
-  ```json
+  ```js
   {
      "userBEmail": "browser@email.com" // with whome you want to share. *Should have an account*
   }
