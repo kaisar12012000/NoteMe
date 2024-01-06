@@ -32,7 +32,7 @@ Open command line and run the following command.
 ```
 git clone https://github.com/kaisar12012000/NoteMe.git
 ```
-The next step is to go to the master branch and intall all the required packages.
+The next step is to go to the master branch and install all the required packages.
 ```
 cd NoteMe
 git checkout master
