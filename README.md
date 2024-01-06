@@ -11,8 +11,7 @@
 
 A backend app to write and store notes and generating custom links to share with peers.
 
-## Requirements
-
+## Packages and Libraries
 1. bcrypt
 1. dotenv
 1. express
