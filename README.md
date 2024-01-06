@@ -145,7 +145,7 @@ There are total 9 API's. They are:
 - Request Headers: 
   ```json
   {
-     Authorization: `Bearer ${token}`
+     "Authorization": `Bearer ${token}`
   }
   ```
 - Response Body:
@@ -175,7 +175,7 @@ There are total 9 API's. They are:
 - Request Headers: 
   ```json
   {
-     Authorization: `Bearer ${token}`
+     "Authorization": `Bearer ${token}`
   }
   ```
 - Response Body:
@@ -203,7 +203,7 @@ There are total 9 API's. They are:
 - Request Headers: 
   ```json
   {
-     Authorization: `Bearer ${token}`
+     "Authorization": `Bearer ${token}`
   }
   ```
 - Request Body : 
@@ -220,7 +220,7 @@ There are total 9 API's. They are:
 - Request Headers: 
   ```json
   {
-     Authorization: `Bearer ${token}`
+     "Authorization": `Bearer ${token}`
   }
   ```
 - Request Body : 
@@ -237,7 +237,7 @@ There are total 9 API's. They are:
 - Request Headers: 
   ```json
   {
-     Authorization: `Bearer ${token}`
+     "Authorization": `Bearer ${token}`
   }
   ```
 - Response Code: 204
@@ -248,7 +248,7 @@ There are total 9 API's. They are:
 - Request Headers: 
   ```json
   {
-     Authorization: `Bearer ${token}`
+     "Authorization": `Bearer ${token}`
   }
   ```
 - Request Body : 
@@ -287,7 +287,7 @@ There are total 9 API's. They are:
 - Request Headers: 
   ```json
   {
-     Authorization: `Bearer ${token}`
+     "Authorization": `Bearer ${token}`
   }
   ```
 - Response Body: 
